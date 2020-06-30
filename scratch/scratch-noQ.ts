@@ -1,0 +1,4 @@
+(function () {
+    // begone, global scope
+
+})();

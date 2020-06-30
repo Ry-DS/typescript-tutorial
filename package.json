@@ -1,0 +1,11 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mongoose": "^5.7.29",
+    "mongoose": "^5.9.20",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}

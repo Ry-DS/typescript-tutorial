@@ -1,0 +1,14 @@
+{
+  "Parkwell": {
+    "location": "33 Example Ave",
+    "size": "large"
+  },
+  "The Great Park of MLH": {
+    "location": "87 MLH Way",
+    "size": "small"
+  },
+  "Park Incorporated": {
+    "location": "44 Dead Trees Street",
+    "size": "medium"
+  }
+}
